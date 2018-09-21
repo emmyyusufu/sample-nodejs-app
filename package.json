@@ -1,5 +1,5 @@
 {
-  "name": "sample-nodejs-app",
+  "name": "ppcrs-poc-app",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
